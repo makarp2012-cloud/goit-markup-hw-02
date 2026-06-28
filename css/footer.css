@@ -3,9 +3,10 @@
 }
 
 .footer .logo {
-    color: #fff;
+    color: #f4f4fd;
 }
 
-.footer p {
-    color: #fff;
+.slogan {
+    color: #f4f4fd;
+    text-align: left;
 }
